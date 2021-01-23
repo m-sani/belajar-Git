@@ -1,0 +1,4 @@
+Tahapan belajar Git
+- Apa itu Git?
+- Istilah dalam Git
+- Bagaimana Git bekerja ?
