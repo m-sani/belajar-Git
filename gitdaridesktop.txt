@@ -1,2 +1,3 @@
 Git dari desktop
 - install git
+- cara pakai git di desktop
