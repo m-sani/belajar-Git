@@ -2,5 +2,5 @@ Tahapan belajar Git
 - Apa itu Git?
 - Istilah dalam Git
 - Bagaimana Git bekerja ?
-- Apa itu versioning control ?
 - Macam macam software versioning control
+- Sejarah Git
