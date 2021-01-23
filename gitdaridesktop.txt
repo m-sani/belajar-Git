@@ -1,0 +1,2 @@
+Git dari desktop
+- install git
